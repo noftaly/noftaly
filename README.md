@@ -24,10 +24,18 @@ ___
 	<a href="https://github.com/Skript-MC/Swan">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Skript-MC&repo=Swan" />
 	</a>
-	[<img src="https://github-readme-stats.vercel.app/api/pin/?username=noftaly&repo=MineField" />](https://github.com/noftaly/minefield)
-	[<img src="https://github-readme-stats.vercel.app/api/pin/?username=noftaly&repo=trello-clone" />](https://github.com/noftaly/trello-clone)
-	[<img src="https://github-readme-stats.vercel.app/api/pin/?username=noftaly&repo=CoinsRun" />](https://github.com/noftaly/coinsrun)
-	[<img src="https://github-readme-stats.vercel.app/api/pin/?username=noftaly&repo=LadderGame" />](https://github.com/noftaly/laddergame)
+	<a href="https://github.com/noftaly/minefield">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=noftaly&repo=MineField" />
+	</a>
+	<a href="https://github.com/noftaly/trello-clone">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=noftaly&repo=trello-clone" />
+	</a>
+	<a href="https://github.com/noftaly/coinsrun">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=noftaly&repo=CoinsRun" />
+	</a>
+	<a href="https://github.com/noftaly/laddergame">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=noftaly&repo=LadderGame" />
+	</a>
 </p>
 
 ___
