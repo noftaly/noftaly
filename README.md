@@ -62,5 +62,5 @@ ___
 ___
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/noftaly/noftaly/master/images/animoji.png" width="128"/>
+	<img src="https://raw.githubusercontent.com/noftaly/noftaly/master/images/animoji.gif" width="128"/>
 </p>
