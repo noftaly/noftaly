@@ -39,18 +39,18 @@ ___
 </p>
 
 <p align="center">
-	<img src="./images/javascript.png" width="128"/>
+	<img src="https://raw.githubusercontent.com/noftaly/noftaly/master/images/javascript.png" width="128"/>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="./images/typescript.png" width="128"/>
+	<img src="https://raw.githubusercontent.com/noftaly/noftaly/master/images/typescript.png" width="128"/>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="./images/vuejs.png" width="128" />
+	<img src="https://raw.githubusercontent.com/noftaly/noftaly/master/images/vuejs.png" width="128" />
 	<br>
 	<br>
-	<img src="./images/git.png" width="128" />
+	<img src="https://raw.githubusercontent.com/noftaly/noftaly/master/images/git.png" width="128" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="./images/mongodb.png" width="128" />
+	<img src="https://raw.githubusercontent.com/noftaly/noftaly/master/images/mongodb.png" width="128" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="./images/python.png" width="128" />
+	<img src="https://raw.githubusercontent.com/noftaly/noftaly/master/images/python.png" width="128" />
 	<br><br>
-	<img src="./images/unity.png" width="128" />
+	<img src="https://raw.githubusercontent.com/noftaly/noftaly/master/images/unity.png" width="128" />
 </p>
