@@ -51,7 +51,7 @@ ___
 	<img src="./images/vuejs.png" width="128" />
 	<br>
 	<br>
-	<img src="./images/git.png" />
+	<img src="./images/git.png" width="128" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="./images/mongodb.png" width="128" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
