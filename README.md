@@ -58,3 +58,9 @@ ___
 	<br><br>
 	<img src="https://raw.githubusercontent.com/noftaly/noftaly/master/images/unity.png" width="128" />
 </p>
+
+___
+
+<p align="center">
+	<img src="https://raw.githubusercontent.com/noftaly/noftaly/master/images/animoji.png" width="128"/>
+</p>
