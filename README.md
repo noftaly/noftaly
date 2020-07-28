@@ -21,7 +21,9 @@ ___
 	<br>
 	<br>
 	<br>
-	[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Skript-MC&repo=Swan" />](https://github.com/Skript-MC/Swan)
+	<a href="https://github.com/Skript-MC/Swan">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Skript-MC&repo=Swan" />
+	</a>
 	[<img src="https://github-readme-stats.vercel.app/api/pin/?username=noftaly&repo=MineField" />](https://github.com/noftaly/minefield)
 	[<img src="https://github-readme-stats.vercel.app/api/pin/?username=noftaly&repo=trello-clone" />](https://github.com/noftaly/trello-clone)
 	[<img src="https://github-readme-stats.vercel.app/api/pin/?username=noftaly&repo=CoinsRun" />](https://github.com/noftaly/coinsrun)
