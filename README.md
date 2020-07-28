@@ -1,12 +1,10 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=noftaly&show_icons=true&hide_border=true" />
 <font size="10">
-<b>
-Hi there 👋
-</b>
+**Hi there 👋**
 </font>
 <br>
-I'm <a href="https://nessmc.fr">noftaly</a>, <b>developer</b> from France 🇫🇷! I love programming websites (mostly backend), applications and algorithms. Since 4 years, I'm constantly learning different programming languages and technologies like <b>Javascript</b>, <b>Typescript</b>, <b>Python</b>, <b>Unity3D & C#</b>...
+I'm noftaly**, <u>developer</u> from France 🇫🇷! I'm a **student**, starting the first year of my *Computer Science Master*. I love programming *websites* (mostly backend), *applications* and *algorithms*. Since 4 years, I'm constantly learning different programming languages and technologies like **Javascript**, **Typescript**, **Python**, **Unity3D & C#**...
 <br><br>
 <img src="https://img.shields.io/badge/DISCORD-noftaly%230359-7289DA?style=for-the-badge" />
 
@@ -14,9 +12,7 @@ ___
 
 <p align="center">
 	<font size="10">
-		<b>
-			My projects
-		</b>
+		**My projects**
 	</font>
 	<br>
 	<br>
@@ -42,9 +38,7 @@ ___
 
 <p align="center">
 	<font size="10">
-		<b>
-		Technologies I use
-		</b>
+		**Technologies I use**
 	</font>
 </p>
 
