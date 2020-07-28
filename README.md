@@ -7,7 +7,7 @@ Hi there 👋
 </font>
 <br>
 I'm <a href="https://nessmc.fr">noftaly</a>, <b>developer</b> from France 🇫🇷! I love programming websites (mostly backend), applications and algorithms. Since 4 years, I'm constantly learning different programming languages and technologies like <b>Javascript</b>, <b>Typescript</b>, <b>Python</b>, <b>Unity3D & C#</b>...
-<br>
+<br><br>
 <img src="https://img.shields.io/badge/DISCORD-noftaly%230359-7289DA?style=for-the-badge" />
 <br>
 <br>
@@ -15,8 +15,6 @@ I'm <a href="https://nessmc.fr">noftaly</a>, <b>developer</b> from France 🇫�
 ___
 
 <p align="center">
-	<br>
-	<br>
 	<font size="10">
 		<b>
 			My projects
