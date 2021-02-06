@@ -40,21 +40,21 @@ ___
 </p>
 
 <p align="center">
-	<img src="./images/javascript.png" width="65" height="65" />
+	<img alt="JavaScript" src="./images/javascript.png" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="./images/typescript.png" width="65" height="65" />
+	<img alt="TypeScript" src="./images/typescript.png" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="./images/git.png" width="65" height="65" />
+	<img alt="Git" src="./images/git.png" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="./images/mongodb.png" width="65" height="65" />
+	<img alt="MongoDB" src="./images/mongodb.png" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="./images/redis.png" width="65" height="65" />
+	<img alt="Redis" src="./images/redis.png" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="./images/python.png" width="65" height="65" />
+	<img alt="Python" src="./images/python.png" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="./images/vuejs.png" width="65" height="65" />
+	<img alt="Vue.js" src="./images/vuejs.png" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="./images/nextjs.png" width="65" height="65" />
+	<img alt="Next.js" src="./images/nextjs.png" width="65" height="65" />
 </p>
 
 <p align="center">
@@ -64,12 +64,11 @@ ___
 </p>
 
 <p align="center">
-	<img src="./images/unity.png" width="65" height="65" />
+	<img alt="Unity3D & C#" src="./images/unity.png" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="./images/swift.png" width="65" height="65" />
+	<img alt="Swift" src="./images/swift.png" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="./images/go.png" width="65" height="65" />
+	<img alt="Go" src="./images/go.png" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="./images/c.png" width="65" height="65" />
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img alt="C" src="./images/c.png" width="65" height="65" />
 </p>
