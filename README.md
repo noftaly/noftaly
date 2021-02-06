@@ -40,21 +40,21 @@ ___
 </p>
 
 <p align="center">
-	<img src="./images/javascript.png" width="128" height="65" />
+	<img src="./images/javascript.png" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="./images/typescript.png" width="128" height="65" />
+	<img src="./images/typescript.png" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="./images/git.png" width="128" height="65" />
+	<img src="./images/git.png" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="./images/mongodb.png" width="128" height="65" />
+	<img src="./images/mongodb.png" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="./images/redis.png" width="128" height="65" />
+	<img src="./images/redis.png" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="./images/python.png" width="128" height="65" />
+	<img src="./images/python.png" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="./images/vuejs.png" width="128" height="65" />
+	<img src="./images/vuejs.png" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="./images/nextjs.png" width="128" height="65" />
+	<img src="./images/nextjs.png" width="65" height="65" />
 </p>
 
 <p align="center">
@@ -64,12 +64,12 @@ ___
 </p>
 
 <p align="center">
-	<img src="./images/unity.png" width="128" height="65" />
+	<img src="./images/unity.png" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="./images/swift.png" width="128" height="65" />
+	<img src="./images/swift.png" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="./images/go.png" width="128" height="65" />
+	<img src="./images/go.png" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="./images/c.png" width="128" height="65" />
+	<img src="./images/c.png" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
