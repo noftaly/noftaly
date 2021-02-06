@@ -4,7 +4,7 @@
 <b>Hi there 👋</b>
 </font>
 <br>
-I'm <b>noftaly</b>, <u>developer</u> from France 🇫🇷! I'm a <b>student</b>, starting the first year of my <i>Computer Science Master</i>. I love programming <i>websites</i> (mostly backend), <i>applications</i> and <i>algorithms</i>. Since 4 years, I'm constantly learning different programming languages and technologies: mainly <b>Javascript</b>, <b>Typescript</b> and <b>Python</b>, but also <b>Swift</b>, <b>Unity3D & C#</b>, <b>Go</b>, <b>C</b>...
+I'm <b>noftaly</b>, <u>developer</u> from France 🇫🇷! I'm a <b>student</b>, in my first year of my <i>Computer Science Master</i>. I love programming <i>websites</i> (mostly backends), <i>applications</i> and <i>algorithms</i>. Since 4 years, I'm constantly learning different programming languages and technologies: mainly <b>Javascript</b>, <b>Typescript</b> and <b>Python</b>, but also <b>Swift</b>, <b>Unity3D & C#</b>, <b>Go</b>, <b>C</b>...
 <br><br>
 <img src="https://img.shields.io/badge/DISCORD-noftaly%230359-7289DA?style=for-the-badge" />
 
