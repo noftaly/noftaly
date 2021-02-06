@@ -46,7 +46,7 @@ ___
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img alt="Git" src="./images/git.png" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img alt="MongoDB" src="./images/mongodb.png" width="65" height="65" />
+	<img alt="MongoDB" src="./images/mongodb.png" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img alt="Redis" src="./images/redis.png" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -64,11 +64,11 @@ ___
 </p>
 
 <p align="center">
-	<img alt="Unity3D & C#" src="./images/unity.png" width="65" height="65" />
+	<img alt="Unity3D & C#" src="./images/unity.png" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img alt="Swift" src="./images/swift.png" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img alt="Go" src="./images/go.png" width="65" height="65" />
+	<img alt="Go" src="./images/go.png" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img alt="C" src="./images/c.png" width="65" height="65" />
 </p>
