@@ -4,7 +4,7 @@
 <b>Hi there 👋</b>
 </font>
 <br>
-I'm <b>noftaly</b>, <u>developer</u> from France 🇫🇷! I'm a <b>student</b>, starting the first year of my <i>Computer Science Master</i>. I love programming <i>websites</i> (mostly backend), <i>applications</i> and <i>algorithms</i>. Since 4 years, I'm constantly learning different programming languages and technologies like <b>Javascript</b>, <b>Typescript</b>, <b>Python</b>, <b>Swift</b>, <b>Unity3D & C#</b>...
+I'm <b>noftaly</b>, <u>developer</u> from France 🇫🇷! I'm a <b>student</b>, starting the first year of my <i>Computer Science Master</i>. I love programming <i>websites</i> (mostly backend), <i>applications</i> and <i>algorithms</i>. Since 4 years, I'm constantly learning different programming languages and technologies: mainly <b>Javascript</b>, <b>Typescript</b> and <b>Python</b>, but also <b>Swift</b>, <b>Unity3D & C#</b>, <b>Go</b>, <b>C</b>...
 <br><br>
 <img src="https://img.shields.io/badge/DISCORD-noftaly%230359-7289DA?style=for-the-badge" />
 
@@ -40,18 +40,36 @@ ___
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/noftaly/noftaly/master/images/javascript.png" width="128"/>
+	<img src="./images/javascript.png" width="128" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://raw.githubusercontent.com/noftaly/noftaly/master/images/typescript.png" width="128"/>
+	<img src="./images/typescript.png" width="128" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://raw.githubusercontent.com/noftaly/noftaly/master/images/vuejs.png" width="128" />
-	<br>
-	<br>
-	<img src="https://raw.githubusercontent.com/noftaly/noftaly/master/images/git.png" width="128" />
+	<img src="./images/git.png" width="128" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://raw.githubusercontent.com/noftaly/noftaly/master/images/mongodb.png" width="128" />
+	<img src="./images/mongodb.png" width="128" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://raw.githubusercontent.com/noftaly/noftaly/master/images/python.png" width="128" />
-	<br><br>
-	<img src="https://raw.githubusercontent.com/noftaly/noftaly/master/images/unity.png" width="128" />
+	<img src="./images/redis.png" width="128" height="65" />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="./images/python.png" width="128" height="65" />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="./images/vuejs.png" width="128" height="65" />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="./images/nextjs.png" width="128" height="65" />
+</p>
+
+<p align="center">
+	<font size="10">
+		<b>Technologies I tried</b>
+	</font>
+</p>
+
+<p align="center">
+	<img src="./images/unity.png" width="128" height="65" />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="./images/swift.png" width="128" height="65" />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="./images/go.png" width="128" height="65" />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="./images/c.png" width="128" height="65" />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
