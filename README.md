@@ -53,6 +53,8 @@ ___
 	<img alt="Python" src="./images/python.png" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img alt="Next.js" src="./images/nextjs.png" width="65" height="65" />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img alt="SCSSs" src="./images/scss.png" width="65" height="65" />
 </p>
 
 <p align="center">
