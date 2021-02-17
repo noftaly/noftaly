@@ -52,8 +52,6 @@ ___
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img alt="Python" src="./images/python.png" width="65" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img alt="Vue.js" src="./images/vuejs.png" width="65" height="65" />
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img alt="Next.js" src="./images/nextjs.png" width="65" height="65" />
 </p>
 
@@ -64,6 +62,8 @@ ___
 </p>
 
 <p align="center">
+	<img alt="Vue.js" src="./images/vuejs.png" width="65" height="65" />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img alt="Unity3D & C#" src="./images/unity.png" height="65" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img alt="Swift" src="./images/swift.png" width="65" height="65" />
