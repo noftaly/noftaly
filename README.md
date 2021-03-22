@@ -40,19 +40,19 @@ ___
 </p>
 
 <p align="center">
-	<img alt="JavaScript" src="./images/javascript.png" width="40" height="40" />
+	<img alt="JavaScript" src="./images/javascript.png" width="50" height="50" />
 	&nbsp;
-	<img alt="TypeScript" src="./images/typescript.png" width="40" height="40" />
+	<img alt="TypeScript" src="./images/typescript.png" width="50" height="50" />
 	&nbsp;
-	<img alt="Git" src="./images/git.png" width="40" height="40" />
+	<img alt="Git" src="./images/git.png" width="50" height="50" />
 	&nbsp;
-	<img alt="MongoDB" src="./images/mongodb.png" height="40" />
+	<img alt="MongoDB" src="./images/mongodb.png" height="50" />
 	&nbsp;
-	<img alt="Redis" src="./images/redis.png" width="40" height="40" />
+	<img alt="Redis" src="./images/redis.png" width="50" height="50" />
 	&nbsp;
-	<img alt="Python" src="./images/python.png" width="40" height="40" />
+	<img alt="Python" src="./images/python.png" width="50" height="50" />
 	&nbsp;
-	<img alt="SCSS" src="./images/scss.png" width="40" height="40" />
+	<img alt="SCSS" src="./images/scss.png" width="50" height="50" />
 </p>
 
 <p align="center">
@@ -62,15 +62,15 @@ ___
 </p>
 
 <p align="center">
-	<img alt="Next.js" src="./images/nextjs.png" width="40" height="40" />
+	<img alt="Next.js" src="./images/nextjs.png" width="50" height="50" />
 	&nbsp;
-	<img alt="Vue.js" src="./images/vuejs.png" width="40" height="40" />
+	<img alt="Vue.js" src="./images/vuejs.png" width="50" height="50" />
 	&nbsp;
-	<img alt="Unity3D & C#" src="./images/unity.png" height="40" />
+	<img alt="Unity3D & C#" src="./images/unity.png" height="50" />
 	&nbsp;
-	<img alt="Swift" src="./images/swift.png" width="40" height="40" />
+	<img alt="Swift" src="./images/swift.png" width="50" height="50" />
 	&nbsp;
-	<img alt="Go" src="./images/go.png" height="40" />
+	<img alt="Go" src="./images/go.png" height="50" />
 	&nbsp;
-	<img alt="C" src="./images/c.png" width="40" height="40" />
+	<img alt="C" src="./images/c.png" width="50" height="50" />
 </p>
