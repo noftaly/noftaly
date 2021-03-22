@@ -40,37 +40,37 @@ ___
 </p>
 
 <p align="center">
-	<img alt="JavaScript" src="./images/javascript.png" width="65" height="65" />
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img alt="TypeScript" src="./images/typescript.png" width="65" height="65" />
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img alt="Git" src="./images/git.png" width="65" height="65" />
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img alt="MongoDB" src="./images/mongodb.png" height="65" />
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img alt="Redis" src="./images/redis.png" width="65" height="65" />
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img alt="Python" src="./images/python.png" width="65" height="65" />
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img alt="Next.js" src="./images/nextjs.png" width="65" height="65" />
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img alt="SCSSs" src="./images/scss.png" width="65" height="65" />
+	<img alt="JavaScript" src="./images/javascript.png" width="40" height="40" />
+	&nbsp;
+	<img alt="TypeScript" src="./images/typescript.png" width="40" height="40" />
+	&nbsp;
+	<img alt="Git" src="./images/git.png" width="40" height="40" />
+	&nbsp;
+	<img alt="MongoDB" src="./images/mongodb.png" height="40" />
+	&nbsp;
+	<img alt="Redis" src="./images/redis.png" width="40" height="40" />
+	&nbsp;
+	<img alt="Python" src="./images/python.png" width="40" height="40" />
+	&nbsp;
+	<img alt="SCSS" src="./images/scss.png" width="40" height="40" />
 </p>
 
 <p align="center">
 	<font size="10">
-		<b>Technologies I tried</b>
+		<b>Technologies I've tried</b>
 	</font>
 </p>
 
 <p align="center">
-	<img alt="Vue.js" src="./images/vuejs.png" width="65" height="65" />
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img alt="Unity3D & C#" src="./images/unity.png" height="65" />
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img alt="Swift" src="./images/swift.png" width="65" height="65" />
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img alt="Go" src="./images/go.png" height="65" />
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img alt="C" src="./images/c.png" width="65" height="65" />
+	<img alt="Next.js" src="./images/nextjs.png" width="40" height="40" />
+	&nbsp;
+	<img alt="Vue.js" src="./images/vuejs.png" width="40" height="40" />
+	&nbsp;
+	<img alt="Unity3D & C#" src="./images/unity.png" height="40" />
+	&nbsp;
+	<img alt="Swift" src="./images/swift.png" width="40" height="40" />
+	&nbsp;
+	<img alt="Go" src="./images/go.png" height="40" />
+	&nbsp;
+	<img alt="C" src="./images/c.png" width="40" height="40" />
 </p>
