@@ -1,7 +1,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=noftaly&show_icons=true&hide_border=true" />
-<font size="12">
-	<b>Hi there 👋</b>
-</font>
+<b>Hi there 👋</b>
 <br>
 I'm <b>Elliot</b>, <u>developer</u> from France 🇫🇷! I'm a <b>student</b>, in my first year of my <i>Computer Science Master</i>. I love programming <i>websites</i> (mostly backends), <i>applications</i> and <i>algorithms</i>. Since 5 years, I'm constantly learning different programming languages and technologies: mainly <b>Javascript</b>, <b>Typescript</b> and <b>Python</b>, but also <b>Swift</b>, <b>Unity3D & C#</b>, <b>Go</b>, <b>C</b>...
 <br>
@@ -11,8 +9,10 @@ I'm <b>Elliot</b>, <u>developer</u> from France 🇫🇷! I'm a <b>student</b>, 
 ___
 
 <p align="center">
-### My projects
+<b>My projects</b>
+</p>
 
+<p align="center">
 <a href="https://github.com/Skript-MC/Swan">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=Skript-MC&repo=Swan" />
 </a>
@@ -30,8 +30,10 @@ ___
 ___
 
 <p align="center">
-### Technologies I use everyday
+<b>Technologies I use everyday</b>
+</p>
 
+<p align="center">
 <a href="https://typescriptlang.org"><img alt="TypeScript" src="./images/typescript.png" width="50" height="50" /></a>
 &nbsp;
 <a href="https://nestjs.com"><img alt="NestJS" src="./images/nestjs.png" height="50" /></a>
@@ -44,7 +46,7 @@ ___
 </p>
 
 <p align="center">
-### Technologies I've tried
+<b>Technologies I've tried</b>
 
 <a href="https://nextjs.org"><img alt="Next.js" src="./images/nextjs.png" width="50" height="50" /></a>
 &nbsp;
