@@ -47,7 +47,9 @@ ___
 
 <p align="center">
 <b>Technologies I've tried</b>
+</p>
 
+<p align="center">
 <a href="https://nextjs.org"><img alt="Next.js" src="./images/nextjs.png" width="50" height="50" /></a>
 &nbsp;
 <a href="https://vuejs.org"><img alt="Vue.js" src="./images/vuejs.png" width="50" height="50" /></a>
