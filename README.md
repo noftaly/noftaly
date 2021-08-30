@@ -1,7 +1,7 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=noftaly&show_icons=true&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=noftaly&show_icons=true&hide_border=true&theme=github_dark" />
 <b>Hi there 👋</b>
 <br>
-I'm <b>Elliot</b>, <u>developer</u> from France 🇫🇷! I'm a <b>student</b>, in my first year of my <i>Computer Science Master</i>. I love programming <i>websites</i> (mostly backends), <i>applications</i> and <i>algorithms</i>. Since 5 years, I'm constantly learning different programming languages and technologies: mainly <b>Javascript</b>, <b>Typescript</b> and <b>Python</b>, but also <b>Swift</b>, <b>Unity3D & C#</b>, <b>Go</b>, <b>C</b>...
+I'm <b>Elliot</b>, <u>developer</u> from France 🇫🇷! I'm a <b>student</b>, in my second year of my <i>Computer Science Master</i>. I love programming <i>websites</i> (mostly backends), <i>applications</i> and <i>algorithms</i>. Since 5 years, I'm constantly learning different programming languages and technologies: mainly <b>Javascript</b>, <b>Typescript</b> and <b>Python</b>, but also <b>Swift</b>, <b>Unity3D & C#</b>, <b>Go</b>, <b>C</b>...
 <br>
 <br>
 <img src="https://img.shields.io/badge/DISCORD-noftaly%230359-7289DA?style=for-the-badge" />
@@ -14,16 +14,16 @@ ___
 
 <p align="center">
 <a href="https://github.com/Skript-MC/Swan">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=Skript-MC&repo=Swan" />
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=Skript-MC&repo=Swan&theme=github_dark" />
 </a>
 <a href="https://github.com/fyllee/fyllee">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=fyllee&repo=fyllee" />
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=fyllee&repo=fyllee&theme=github_dark" />
 </a>
 <a href="https://github.com/noftaly/minefield">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=noftaly&repo=MineField" />
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=noftaly&repo=MineField&theme=github_dark" />
 </a>
 <a href="https://github.com/noftaly/laddergame">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=noftaly&repo=LadderGame" />
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=noftaly&repo=LadderGame&theme=github_dark" />
 </a>
 </p>
 
