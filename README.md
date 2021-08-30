@@ -43,6 +43,8 @@ ___
 <a href="https://mongodb.com"><img alt="MongoDB" src="./images/mongodb.png" height="50" /></a>
 &nbsp;
 <a href="https://python.org"><img alt="Python" src="./images/python.png" width="50" height="50" /></a>
+&nbsp;
+<a href="https://discord.js.org"><img alt="Discord.js" src="./images/discordjs.png" width="50" height="50" /></a>
 </p>
 
 <p align="center">
