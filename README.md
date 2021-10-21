@@ -66,6 +66,10 @@ ___
 &nbsp;
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img alt="C" src="./images/c.png" width="50" height="50" /></a>
 &nbsp;
+<a href="https://www.oracle.com/java/technologies/"><img alt="Java" src="./images/java.png" width="50" height="50" /></a>
+&nbsp;
+<a href="https://www.postgresql.org"><img alt="Postgresql" src="./images/postgres.png" width="50" height="50" /></a>
+&nbsp;
 <a href="https://redis.io"><img alt="Redis" src="./images/redis.png" width="50" height="50" /></a>
 &nbsp;
 <a href="https://aws.com"><img alt="AWS" src="./images/aws.png" width="50" height="50" /></a>
