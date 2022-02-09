@@ -16,8 +16,8 @@ ___
 <a href="https://github.com/Skript-MC/Swan">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=Skript-MC&repo=Swan&theme=github_dark" />
 </a>
-<a href="https://github.com/fyllee/fyllee">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=fyllee&repo=fyllee&theme=github_dark" />
+<a href="https://github.com/horizon-efrei/HorizonWeb">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=horizon-efrei&repo=HorizonWeb&theme=github_dark" />
 </a>
 <a href="https://github.com/noftaly/minefield">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=noftaly&repo=MineField&theme=github_dark" />
@@ -41,6 +41,8 @@ ___
 <a href="https://git-scm.com"><img alt="Git" src="./images/git.png" width="50" height="50" /></a>
 &nbsp;
 <a href="https://mongodb.com"><img alt="MongoDB" src="./images/mongodb.png" height="50" /></a>
+&nbsp;
+<a href="https://www.postgresql.org"><img alt="Postgresql" src="./images/postgres.png" width="50" height="50" /></a>
 &nbsp;
 <a href="https://python.org"><img alt="Python" src="./images/python.png" width="50" height="50" /></a>
 &nbsp;
@@ -68,9 +70,9 @@ ___
 &nbsp;
 <a href="https://www.oracle.com/java/technologies/"><img alt="Java" src="./images/java.png" width="50" height="50" /></a>
 &nbsp;
-<a href="https://www.postgresql.org"><img alt="Postgresql" src="./images/postgres.png" width="50" height="50" /></a>
-&nbsp;
 <a href="https://redis.io"><img alt="Redis" src="./images/redis.png" width="50" height="50" /></a>
+&nbsp;
+<a href="https://scaleway.com"><img alt="Scaleway" src="./images/scaleway.png" width="50" height="50" /></a>
 &nbsp;
 <a href="https://aws.com"><img alt="AWS" src="./images/aws.png" width="50" height="50" /></a>
 &nbsp;
