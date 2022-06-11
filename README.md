@@ -8,16 +8,26 @@ I'm <b>Elliot</b>, <u>developer</u> from France 🇫🇷! I'm a <b>student</b>, 
 
 ___
 
+<h3 align="center">My projects</h3>
+
 <p align="center">
-<b>My projects</b>
+<br/>
+⭐️ ⭐️ ⭐️  🎉  ⭐️ ⭐️ ⭐️
+<br/><br/>
+<a href="https://github.com/Okampus/okampus">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=Okampus&repo=okampus&theme=github_dark" />
+</a>
 </p>
+
+<br/>
+<br/>
 
 <p align="center">
 <a href="https://github.com/Skript-MC/Swan">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=Skript-MC&repo=Swan&theme=github_dark" />
 </a>
-<a href="https://github.com/horizon-efrei/HorizonWeb">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=horizon-efrei&repo=HorizonWeb&theme=github_dark" />
+<a href="https://github.com/horizon-efrei/HorizonBot">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=horizon-efrei&repo=HorizonBot&theme=github_dark" />
 </a>
 <a href="https://github.com/noftaly/minefield">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=noftaly&repo=MineField&theme=github_dark" />
@@ -29,9 +39,7 @@ ___
 
 ___
 
-<p align="center">
-<b>Technologies I use everyday</b>
-</p>
+<h3 align="center">Technologies I use everyday</h3>
 
 <p align="center">
 <a href="https://typescriptlang.org"><img alt="TypeScript" src="./images/typescript.png" width="50" height="50" /></a>
@@ -49,9 +57,7 @@ ___
 <a href="https://discord.js.org"><img alt="Discord.js" src="./images/discordjs.png" width="50" height="50" /></a>
 </p>
 
-<p align="center">
-<b>Technologies I've tried</b>
-</p>
+<h3 align="center">Technologies I've tried</h3>
 
 <p align="center">
 <a href="https://nextjs.org"><img alt="Next.js" src="./images/nextjs.png" width="50" height="50" /></a>
