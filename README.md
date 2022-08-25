@@ -1,7 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=noftaly&show_icons=true&hide_border=true&theme=github_dark" />
 <b>Hi there 👋</b>
 <br>
-I'm <b>Elliot</b>, <u>developer</u> from France 🇫🇷! I'm a <b>student</b>, in my second year of my <i>Computer Science Master</i>. I love programming <i>websites</i> (mostly backends), <i>applications</i> and <i>algorithms</i>. Since 5 years, I'm constantly learning different programming languages and technologies: mainly <b>Javascript</b>, <b>Typescript</b> and <b>Python</b>, but also <b>Swift</b>, <b>Unity3D & C#</b>, <b>Go</b>, <b>C</b>...
+I'm <b>Elliot</b>, <u>developer</u> from France 🇫🇷! I'm a <b>student</b>, in my third year of my <i>Computer Science Master</i>. I love programming <i>websites</i> (mostly backends), <i>applications</i> and <i>algorithms</i>. Since 5 years, I'm constantly learning different programming languages and technologies: mainly <b>Javascript</b>, <b>Typescript</b> and <b>Python</b>, but also <b>Swift</b>, <b>Unity3D & C#</b>, <b>Go</b>, <b>C</b>, <b>Java</b>...
 <br>
 <br>
 <img src="https://img.shields.io/badge/DISCORD-noftaly%230359-7289DA?style=for-the-badge" />
@@ -55,6 +55,10 @@ ___
 <a href="https://python.org"><img alt="Python" src="./images/python.png" width="50" height="50" /></a>
 &nbsp;
 <a href="https://discord.js.org"><img alt="Discord.js" src="./images/discordjs.png" width="50" height="50" /></a>
+&nbsp;
+<a href="https://redis.io"><img alt="Redis" src="./images/redis.png" width="50" height="50" /></a>
+&nbsp;
+<a href="https://docker.com"><img alt="Docker" src="./images/docker.png" width="50" height="50" /></a>
 </p>
 
 <h3 align="center">Technologies I've tried</h3>
@@ -75,8 +79,6 @@ ___
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img alt="C" src="./images/c.png" width="50" height="50" /></a>
 &nbsp;
 <a href="https://www.oracle.com/java/technologies/"><img alt="Java" src="./images/java.png" width="50" height="50" /></a>
-&nbsp;
-<a href="https://redis.io"><img alt="Redis" src="./images/redis.png" width="50" height="50" /></a>
 &nbsp;
 <a href="https://scaleway.com"><img alt="Scaleway" src="./images/scaleway.png" width="50" height="50" /></a>
 &nbsp;
