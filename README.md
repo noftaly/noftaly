@@ -3,6 +3,7 @@
 <br>
 I'm <b>Elliot</b>, developer from France 🇫🇷! I'm a student, in my third year of my <i>Computer Science Master</i>. I love programming <i>websites</i> (mostly backends), <i>applications</i> and <i>algorithms</i>. Since 5 years, I'm constantly learning different programming languages and technologies: mainly <b>Javascript</b>, <b>Typescript</b>, <b>Java</b> and <b>Python</b>, but also <b>Swift</b>, <b>Unity3D & C#</b>, <b>Go</b>, <b>PHP</b>, <b>C</b>, <b>C++</b>...
 <br>
+<br>
 I also have experience with many modern technologies, such as <b>GraphQL</b>, <b>CI/CD</b>, <b>SQL & NoSQL</b>, <b>Docker</b>, <b>AWS</b> and <b>Terraform</b>, and I'm always looking to learn more!
 Although I'm mainly interested in Back-End development, I also have experience with Front-End development with <b>ReactJS</b>, <b>VueJS</b> and <b>NextJS</b>.
 <br>
