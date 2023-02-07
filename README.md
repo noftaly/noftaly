@@ -1,10 +1,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=noftaly&show_icons=true&hide_border=true&theme=github_dark" />
-**Hi there 👋**
+<b>Hi there 👋</b>
 <br>
-I'm **Elliot**, developer from France 🇫🇷! I'm a student, in my third year of my *Computer Science Master*. I love programming *websites* (mostly backends), *applications* and *algorithms*. Since 5 years, I'm constantly learning different programming languages and technologies: mainly **Javascript**, **Typescript**, **Java** and **Python**, but also **Swift**, **Unity3D & C#**, **Go**, **PHP**, **C**, **C++**...
+I'm <b>Elliot</b>, developer from France 🇫🇷! I'm a student, in my third year of my <i>Computer Science Master</i>. I love programming <i>websites</i> (mostly backends), <i>applications</i> and <i>algorithms</i>. Since 5 years, I'm constantly learning different programming languages and technologies: mainly <b>Javascript</b>, <b>Typescript</b>, <b>Java</b> and <b>Python</b>, but also <b>Swift</b>, <b>Unity3D & C#</b>, <b>Go</b>, <b>PHP</b>, <b>C</b>, <b>C++</b>...
 <br>
-I also have experience with many modern technologies, such as **GraphQL**, **CI/CD**, **SQL & NoSQL**, **Docker**, **AWS** and **Terraform**, and I'm always looking to learn more!
-Although I'm mainly interested in Back-End development, I also have experience with Front-End development with **ReactJS**, **VueJS** and **NextJS**.
+I also have experience with many modern technologies, such as <b>GraphQL</b>, <b>CI/CD</b>, <b>SQL & NoSQL</b>, <b>Docker</b>, <b>AWS</b> and <b>Terraform</b>, and I'm always looking to learn more!
+Although I'm mainly interested in Back-End development, I also have experience with Front-End development with <b>ReactJS</b>, <b>VueJS</b> and <b>NextJS</b>.
 <br>
 <br>
 <img src="https://img.shields.io/badge/DISCORD-noftaly%230359-7289DA?style=for-the-badge" />
