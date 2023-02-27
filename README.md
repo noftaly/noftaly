@@ -80,6 +80,8 @@ ___
 &nbsp;
 <a href="https://www.swift.org"><img alt="Swift" src="./images/swift.png" width="50" height="50" /></a>
 &nbsp;
+<a href="https://scala-lang.org"><img alt="Scala" src="./images/scala.png" width="50" height="50" /></a>
+&nbsp;
 <a href="https://golang.org"><img alt="Go" src="./images/go.png" height="50" /></a>
 &nbsp;
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img alt="C" src="./images/c.png" width="50" height="50" /></a>
