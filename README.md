@@ -1,7 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=noftaly&show_icons=true&hide_border=true&theme=github_dark" />
 <b>Hi there 👋</b>
 <br>
-I'm <b>Elliot</b>, developer from France 🇫🇷! I'm a student, in my third year of my <i>Computer Science Master</i>. I love programming <i>websites</i> (mostly backends), <i>applications</i> and <i>algorithms</i>. Since 5 years, I'm constantly learning different programming languages and technologies: mainly <b>Javascript</b>, <b>Typescript</b>, <b>Java</b> and <b>Python</b>, but also <b>Swift</b>, <b>Unity3D & C#</b>, <b>Go</b>, <b>PHP</b>, <b>C</b>, <b>C++</b>...
+I'm <b>Elliot</b>, developer from France 🇫🇷! I'm a student, in my first year of my <i>Computer Science Master</i>. I love programming <i>websites</i> (mostly backends), <i>applications</i> and <i>algorithms</i>. Since 6 years, I'm constantly learning different programming languages and technologies: mainly <b>Javascript</b>, <b>Typescript</b>, <b>Java</b> and <b>Python</b>, but also <b>Swift</b>, <b>Go</b>, <b>Scala</b>, <b>PHP</b>, <b>C</b>, <b>C++</b>, <b>Unity3D & C#</b>...
 <br>
 <br>
 I also have experience with many modern technologies, such as <b>GraphQL</b>, <b>CI/CD</b>, <b>SQL & NoSQL</b>, <b>Docker</b>, <b>AWS</b> and <b>Terraform</b>, and I'm always looking to learn more!
@@ -22,7 +22,7 @@ ___
 	</a>
 </p>
 
-<br><br>
+<br>
 
 <p align="center">
 <a href="https://github.com/Skript-MC/Swan">
@@ -30,12 +30,6 @@ ___
 </a>
 <a href="https://github.com/horizon-efrei/HorizonBot">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=horizon-efrei&repo=HorizonBot&theme=github_dark" />
-</a>
-<a href="https://github.com/noftaly/minefield">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=noftaly&repo=MineField&theme=github_dark" />
-</a>
-<a href="https://github.com/noftaly/laddergame">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=noftaly&repo=LadderGame&theme=github_dark" />
 </a>
 </p>
 
@@ -61,6 +55,8 @@ ___
 <a href="https://redis.io"><img alt="Redis" src="./images/redis.png" width="50" height="50" /></a>
 &nbsp;
 <a href="https://www.docker.com"><img alt="Docker" src="./images/docker.png" width="50" height="50" /></a>
+&nbsp;
+<a href="https://github.com"><img alt="GitHub" src="./images/github.png" height="50" /></a>
 </p>
 
 <h3 align="center">Technologies I've used or I use occasionally</h3>
@@ -83,7 +79,8 @@ ___
 <a href="https://scala-lang.org"><img alt="Scala" src="./images/scala.png" width="50" height="50" /></a>
 &nbsp;
 <a href="https://golang.org"><img alt="Go" src="./images/go.png" height="50" /></a>
-&nbsp;
+</p>
+<p align="center">
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img alt="C" src="./images/c.png" width="50" height="50" /></a>
 &nbsp;
 <a href="https://www.scaleway.com"><img alt="Scaleway" src="./images/scaleway.png" width="50" height="50" /></a>
@@ -91,4 +88,10 @@ ___
 <a href="https://aws.amazon.com"><img alt="AWS" src="./images/aws.png" width="50" height="50" /></a>
 &nbsp;
 <a href="https://www.terraform.io"><img alt="Terraform" src="./images/terraform.png" width="50" height="50" /></a>
+&nbsp;
+<a href="https://jestjs.io"><img alt="Jest" src="./images/jestjs.png" width="50" height="50" /></a>
+&nbsp;
+<a href="https://stripe.com"><img alt="Strip" src="./images/stripe.png" width="50" height="50" /></a>
+&nbsp;
+<a href="https://gitlab.com"><img alt="Gitlab" src="./images/gitlab.png" height="50" /></a>
 </p>
